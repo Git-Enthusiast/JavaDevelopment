@@ -6,6 +6,7 @@ public class CountDigit {
     /*
     Count Digits using Logarithms:
     int count = (int) Math.log10(Math.abs(num)) + 1;
+    return count;
 
      */
     static void main() {
